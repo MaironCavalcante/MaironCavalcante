@@ -4,6 +4,9 @@
 I’m currently working on System Engineering research in automotive industry.
 Also enjoying Machine Learning models, Statitics, predictions algorithm and IA.
 
+Electrical Engineering student at the [Federal University of Bahia, Brazil](http://www.deec.eng.ufba.br/).
+
+
 <div align="center">
   <a href="https://github.com/MaironCavalcante">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MaironCavalcante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
